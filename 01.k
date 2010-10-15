@@ -1,0 +1,17 @@
+/ k3 code
+str:    "Fourscoreandsevenyearsagoourfaathersbroughtforthonthiscontainentanewnationconceived"
+str,:   "inzLibertyanddedicatedtothepropositionthatallmenarecreatedequalNowweareengagedinagr"
+str,:   "eahtcivilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongen"
+str,:   "dureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfield"
+str,:   "asafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltoget"
+str,:   "herfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecra"
+str,:   "tewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecratedi"
+str,:   "tfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhat"
+str,:   "wesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedher"
+str,:   "etotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforu"
+str,:   "stobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakein"
+str,:   "creaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehi"
+str,:   "ghlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewb"
+str,:   "irthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromt"
+str,:   "heearth"
+*|,/{[l]t@&{x~|x}'t:{l#x _ str}'((#str)+1-l)#!#str}'!#str
