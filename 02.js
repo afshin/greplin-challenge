@@ -1,3 +1,4 @@
+// runs in node
 Number.prototype.divisors = function(){
     var divisors = [];
     for (var lcv = 1; lcv < Math.floor(this / 2); lcv += 1){

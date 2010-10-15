@@ -1,4 +1,4 @@
-/ k3 code
+/ runs in K (K3) ... http://kx.com
 str:    "Fourscoreandsevenyearsagoourfaathersbroughtforthonthiscontainentanewnationconceived"
 str,:   "inzLibertyanddedicatedtothepropositionthatallmenarecreatedequalNowweareengagedinagr"
 str,:   "eahtcivilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongen"

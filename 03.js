@@ -1,3 +1,4 @@
+// runs in node
 require('sys').print((function(arr){
 	var list = arr.sort(function(a, b){return a - b;});
 	var subsets = function(arr, len){
